@@ -1,0 +1,11 @@
+/Users/williamphipps/Desktop/projects/cSharpPractice/bin/Debug/netcoreapp2.2/cSharpPractice.deps.json
+/Users/williamphipps/Desktop/projects/cSharpPractice/bin/Debug/netcoreapp2.2/cSharpPractice.runtimeconfig.json
+/Users/williamphipps/Desktop/projects/cSharpPractice/bin/Debug/netcoreapp2.2/cSharpPractice.runtimeconfig.dev.json
+/Users/williamphipps/Desktop/projects/cSharpPractice/bin/Debug/netcoreapp2.2/cSharpPractice.dll
+/Users/williamphipps/Desktop/projects/cSharpPractice/bin/Debug/netcoreapp2.2/cSharpPractice.pdb
+/Users/williamphipps/Desktop/projects/cSharpPractice/obj/Debug/netcoreapp2.2/cSharpPractice.csprojAssemblyReference.cache
+/Users/williamphipps/Desktop/projects/cSharpPractice/obj/Debug/netcoreapp2.2/cSharpPractice.csproj.CoreCompileInputs.cache
+/Users/williamphipps/Desktop/projects/cSharpPractice/obj/Debug/netcoreapp2.2/cSharpPractice.AssemblyInfoInputs.cache
+/Users/williamphipps/Desktop/projects/cSharpPractice/obj/Debug/netcoreapp2.2/cSharpPractice.AssemblyInfo.cs
+/Users/williamphipps/Desktop/projects/cSharpPractice/obj/Debug/netcoreapp2.2/cSharpPractice.dll
+/Users/williamphipps/Desktop/projects/cSharpPractice/obj/Debug/netcoreapp2.2/cSharpPractice.pdb
